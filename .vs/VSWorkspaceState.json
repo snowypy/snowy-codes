@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\containers",
+    "\\src\\containers\\layout",
+    "\\src\\lib",
+    "\\src\\lib\\content",
+    "\\src\\lib\\hooks",
+    "\\src\\lib\\types",
+    "\\src\\lib\\utils",
+    "\\src\\styles",
+    "\\src\\styles\\animations"
+  ],
+  "SelectedNode": "\\src\\lib\\content\\projects.ts",
+  "PreviewInSolutionExplorer": false
+}
