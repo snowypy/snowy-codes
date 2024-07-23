@@ -11,6 +11,6 @@ export const navbarSection: NavbarSectionType = {
   ],
   cta: {
     title: 'resume',
-    url: `/${resumeFileName}`,
+    url: `#experience`,
   },
 };
