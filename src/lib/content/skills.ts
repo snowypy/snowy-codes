@@ -26,11 +26,12 @@ export const skillsSection: SkillsSectionType = {
           name: 'typeScript',
           icon: 'vscode-icons:file-type-typescript-official',
         },
-        { name: 'nodejs', icon: 'logos:nodejs-icon' },
         { name: 'reactjs', icon: 'logos:react' },
+        { name: 'nodejs', icon: 'logos:nodejs-icon' },
         { name: 'nextjs', icon: 'logos:nextjs-icon' },
+        { name: 'vue', icon: 'logos:vue' },
         { name: 'tailwindcss', icon: 'logos:tailwindcss-icon' },
-        { name: 'database', icon: 'vscode-icons:file-type-sql' },
+        { name: 'database', icon: 'icon:mongodb-icon' },
       ],
     },
     {
@@ -65,7 +66,7 @@ export const skillsSection: SkillsSectionType = {
       ],
       softwareSkills: [
         { name: 'java', icon: 'logos:java' },
-        { name: 'kotlin', icon: 'logos:kotlin' },
+        { name: 'kotlin', icon: 'logos:kotlin-icon' },
         { name: 'python', icon: 'logos:python' },
         { name: 'skript', icon: 'vscode-icons:file-type-sql' },
       ],
