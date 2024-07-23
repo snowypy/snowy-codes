@@ -39,7 +39,7 @@ const About = () => {
             I have worked on several projects where I have been paid plentifully for my efforts such as at
             start-up -{' '}
             <Link
-              href="https://store.opgens.com
+              href="https://store.opgens.com/"
               target="_blank"
               className="text-accent"
             >
