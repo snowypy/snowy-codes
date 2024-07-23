@@ -8,7 +8,6 @@ import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
   github: 'https://github.com/snowypy',
-  discord: ''
 };
 
 export const author = {
