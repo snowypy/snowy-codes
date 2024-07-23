@@ -68,5 +68,7 @@ export const skillsSection: SkillsSectionType = {
         { name: 'kotlin', icon: 'logos:kotlin' },
         { name: 'python', icon: 'logos:python' },
         { name: 'skript', icon: 'vscode-icons:file-type-sql' },
+      ],
+    },
   ],
 };
