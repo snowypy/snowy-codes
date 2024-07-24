@@ -17,7 +17,7 @@ export const experienceSection: ExperienceSectionType = {
     },
     {
       company: 'KeepInvBox',
-      companyUrl: '#',
+      companyUrl: 'https://discord.gg/5PaqgKzgZ8',
       role: 'Jr Developer - Owner',
       started: 'February 2022',
       upto: 'Present',
@@ -61,8 +61,19 @@ export const experienceSection: ExperienceSectionType = {
         'It was shut down due to the inactivity of the original owner and my time to manage the server.',
       ],
     }, {
-      company: 'DupeKitz',
+      company: 'MoonSkyMC',
       companyUrl: '#',
+      role: 'Developer',
+      started: 'June 2023',
+      upto: 'December 2023',
+      tasks: [
+        'I made several core features such as a farming core, a custom economy, a quests core and many other features',
+        'I enjoyed working at MoonSkyMC due to the friendly owners and the small community.',
+        'Unfortunately, The server was never released and was eventually fully shut down.',
+      ],
+    }, {
+      company: 'DupeKitz',
+      companyUrl: 'https://discord.gg/kk8hEWjDE9',
       role: 'Sr Mod - Admin',
       started: 'August 2023',
       upto: 'Present',
@@ -82,7 +93,7 @@ export const experienceSection: ExperienceSectionType = {
       ],
     }, {
       company: 'DupeCrush',
-      companyUrl: '#',
+      companyUrl: 'https://discord.gg/tPhjtkR7yx',
       role: 'Owner',
       started: 'September 2023',
       upto: 'Present',
@@ -92,8 +103,30 @@ export const experienceSection: ExperienceSectionType = {
         'I sold and then shut down the server after the server was hacked by an administrator',
       ],
     }, {
+      company: 'ISBox',
+      companyUrl: 'https://discord.gg/cWmtrKdXa5',
+      role: 'Developer',
+      started: 'January 2023',
+      upto: 'Present',
+      tasks: [
+        'I was brought in as a developer to help with general optimisation.',
+        'The server is quite small but can handle lots of players and would run well.',
+        'I am not very active at ISBox but I am still a developer there.',
+      ],
+    }, {
+      company: 'BoxKill',
+      companyUrl: 'https://discord.gg/czG8M6yB',
+      role: 'Developer',
+      started: 'March 2023',
+      upto: 'Present',
+      tasks: [
+        'I developed all of the features for Boxkill from core features such as a shulker core and a custom economy system',
+        'The server only reaches 10-15 players but is still a fun experience for most players',
+        'I developed this server completely other than the maps.',
+      ],
+    }, {
       company: 'Hardcore',
-      companyUrl: '#',
+      companyUrl: 'https://discord.gg/dupe',
       role: 'Developer + Manager',
       started: 'March 2024',
       upto: 'Present',
@@ -104,7 +137,7 @@ export const experienceSection: ExperienceSectionType = {
       ],
     }, {
       company: 'MineCrush',
-      companyUrl: '#',
+      companyUrl: 'https://discord.gg/dupe',
       role: 'Manager + Developer',
       started: 'March 2024',
       upto: 'Present',
@@ -112,6 +145,48 @@ export const experienceSection: ExperienceSectionType = {
         'I am a Community Manager at MineCrush and ensure that the community is safe and enjoyable for all players.',
         'I help maintain that servers are online and that there are no issues related to crashing globally across the network of over 5000 members.',
         'The server is currently striving with its multiple servers and is well known across Minehut',
+      ],
+    }, {
+      company: 'RivalGens',
+      companyUrl: '#',
+      role: 'Manager',
+      started: 'May 2024',
+      upto: 'Present',
+      tasks: [
+        'I managed the server and helped to make sure it was online',
+        'It averaged 30 players which was surprising for a new server that was not well known and not maintained by the owner.',
+        'The server is currently shut down but there are plans to make a new version.',
+      ],
+    },{
+      company: 'FlowerRealms',
+      companyUrl: '#',
+      role: 'Developer',
+      started: 'July 2024',
+      upto: 'Present',
+      tasks: [
+        'I assisted with the development of numerous staff features that enhance user experience',
+        'Some of the things I created were a custom filter system with advanced logging and a custom staff chat system.',
+        'The server is currently #3 globally across minehut with over 100 concurrent players',
+      ],
+    }, {
+      company: 'Melon Client',
+      companyUrl: 'https://discord.gg/melonclient',
+      role: 'Support',
+      started: 'July 2024',
+      upto: 'Present',
+      tasks: [
+        'I am a support member at Melon Client and help to ensure that the client is working for all users',
+        'Melon Client was one of the most hyped clients back in the day and rivaled many such as Lunar Client.',
+      ],
+    }, {
+      company: 'OPGens',
+      companyUrl: 'https://discord.gg/opgens',
+      role: 'Developer',
+      started: 'July 2024',
+      upto: 'Present',
+      tasks: [
+        'I have only recently joined OPGens and have been working on the development of the server',
+        'I am currently working on a custom Trade System that integrates with the server economy',
       ],
     },
   ],
