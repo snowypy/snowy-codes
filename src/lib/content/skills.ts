@@ -31,7 +31,7 @@ export const skillsSection: SkillsSectionType = {
         { name: 'nextjs', icon: 'logos:nextjs-icon' },
         { name: 'vue', icon: 'logos:vue' },
         { name: 'tailwindcss', icon: 'logos:tailwindcss-icon' },
-        { name: 'database', icon: 'icon:mongodb-icon' },
+        { name: 'database', icon: 'logos:mongodb-icon' },
       ],
     },
     {
@@ -60,7 +60,7 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/backend-dark.json',
       },
       points: [
-        'Producing scalable and maintainable applications using pythong',
+        'Producing scalable and maintainable applications using python',
         'Developing the best Java Projects in Java',
         'Optimising Java code in Kotlin.',
       ],
