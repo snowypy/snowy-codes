@@ -1,5 +1,5 @@
 <h1 align="center">
-  https://snowy.codes
+  snowy.codes
 </h1>
 <p align="center">
   A portfolio website built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
