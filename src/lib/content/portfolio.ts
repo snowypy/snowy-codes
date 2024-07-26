@@ -16,7 +16,7 @@ export const author = {
 };
 
 export const seoData = {
-  title: 'SnowyJS | Front-End Developer',
+  title: 'snowy.codes',
   description:
     'Snowy is a frontend developer working on Minecraft Optimisation',
   author: author.name,
