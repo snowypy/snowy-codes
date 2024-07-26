@@ -1,5 +1,5 @@
 <h1 align="center">
-  https://snowy.codes
+  snowy.codes
 </h1>
 <p align="center">
   A portfolio website built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
@@ -18,7 +18,7 @@
 
 ## How to use
 
-###To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/).
+### To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/).
 
 1. Fork this repository and clone the project
 
