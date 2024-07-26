@@ -18,7 +18,7 @@
 
 ## How to use
 
-###To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/).
+### To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/).
 
 1. Fork this repository and clone the project
 
