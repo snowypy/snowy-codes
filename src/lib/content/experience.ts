@@ -157,7 +157,7 @@ export const experienceSection: ExperienceSectionType = {
         'It averaged 30 players which was surprising for a new server that was not well known and not maintained by the owner.',
         'The server is currently shut down but there are plans to make a new version.',
       ],
-    },{
+    }, {
       company: 'FlowerRealms',
       companyUrl: '#',
       role: 'Developer',
