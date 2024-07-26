@@ -57,7 +57,7 @@ export const skillsSection: SkillsSectionType = {
       title: 'Frontend Development',
       lottie: {
         light: '/lotties/backend.json',
-        dark: '/lotties/backend-dark.json',
+        dark: '/lotties/backend.json',
       },
       points: [
         'Producing scalable and maintainable applications using python',
