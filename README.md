@@ -9,7 +9,7 @@
 
 ## Built With
 
-- [Next.js](https://nextjs.org/)
+- [Nextjs](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/) - For animations
